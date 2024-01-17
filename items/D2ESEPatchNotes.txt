@@ -165,7 +165,7 @@ ASSASSIN
 * Cold Wave: Faster movement, increased damage.
 * Mind Blast: Significantly larger area, increased damage.
 * Ice Fangs: Faster movement, increased damage, pierces.
-* Shock Field: delay reduced to 8 (3x proc rate), shallow travel arc (faster flight).
+* Shock Web: delay reduced to 8 (3x proc rate), shallow travel arc (faster flight).
 * Kick Skills: Improved damage, range and boot damage.
 * Cold Blast: Radius gain per level reduced slightly, shallow travel arc (faster flight).
 
@@ -196,27 +196,3 @@ SORCERESS
 * Meteor Shower: Much faster fire rate, increased targetting range, damage now pure fire, synergies now Fire Ball, Fire Bolt and Meteor.
 * Meteor: Larger area of effect, damage now pure fire, delay reduced to 20.
 * Static Field: Now ignores resists and deals burning damage. In Hell, will only reduce health to 90%. Map monster version is unaffected.
-
----------------------------------------------------------------
-QUICK GUIDE TO NEW CONTENT
----------------------------------------------------------------
-
-* A PDF of all new recipes is included
-
-* If you're going with melee skills, make sure to keep the melee splash charm on you at all times. It can be upgraded 3 times over the course of the early-mid game, the recipes can be found in the included recipe list PDF. The charms do not stack their effects, so having multiple of them is unnescessary.
-
-* Tinkering now gives more stats per use. Even just a small amount of tinkering on your leveling gear can make a big difference to survivability and the damage of attack-based skills. Eventually, once you reach maps, you'll want to make it a priority to max Damage Reduced and Magic Damage Reduced tinkers on your gear as you progress through the map tiers, in addition to Life Regen and HP.
-
-* Maps are dropped by Hell Nihlathak, with a fairly high drop rate. He only drops tier 1 maps, you will need the new materials (Diabolic Diabolite, Mephitic Malachite, Anguishing Andalusite, Pained Petalite, Baleful Bastnasite, Convoking Covellite) dropped in maps only to upgrade the tier to access harder content. Maps are not consumed on use, and when upgraded you will keep a copy of the map you upgraded from. Maps can only upgrade to the next tier of that type of map. Tier 6 maps can be turned into a 1-time-use token that will allow you to fight the Lord of that map's domain.
-
-* Maxing your resist caps is extremely important, and magic resistance is far more important than ever before. Tier 6 maps will eat you alive if you do not have these fully maxed out, and overcapping your resists is advised as some monster skills can lower them temporarily.
-
-* Hell Nihlathak can drop Tinkerer's Dream, a new charm that can be tinkered like regular equipment, and also has special exclusive dstoning modifiers to assist with various defensive stats.
-
-* Radiance now has two counterparts that deal cold and lightning damage. All three can be crystallized, and placed into a new kind of sword that will allow you to have all 3 effects at once. This sword is the only item that can have these crystals socketed.
-
-* Nexus helms are a special helmet type that can have Nexus Prisms socketed into them. These prisms can only be socketed in Nexus helms. These grant a variety of auras and stats. Auras of the same type can stack, and their levels are added.
-
-* Monsters in maps cannot be stunned, flinch or be knocked back and are extremely difficult to freeze and chill. They have multiple skills, are faster and more aggressive than non-map monsters, and each map can have up to a dozen different monsters types within them. Being swarmed is a great way to die very quickly.
-
-* The 6 new uber bosses have three phases. Upon defeating a phase, a stronger version of the boss arises, and their skills become deadlier and new skills are granted to them. In addition, they will begin summoning minions periodically, and will not stop doing so until they are defeated. If you allow them to live too long, you may find yourself overwhelmed by them. Uber bosses also ignore your pets and will focus solely upon you.
