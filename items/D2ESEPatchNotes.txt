@@ -226,7 +226,7 @@ AMAZON
 
 * Shadow Strike: SrcDam 128, 3x more bolts, synergy 5 > 7, faster travel speed.
 * Lightning Fury: SrcDam 128, synergy (1 > 7), doubled target radius, travel speed doubled.
-* Valkyrie: Most stat gains doubled, +1 valk per 5 base lvls in addition to +1 per 5 base levels of Decoy.
+* Valkyrie: Most stat gains doubled, +1 valk per 5 base lvls of Decoy.
 * Strafe: SrcDam 128, massively faster repeat speed, higher target range, more shots, faster travel speed.
 * Lightning Arrow: more targets, synergy fixed, higher target range, faster flight.
 * Multiple Shot: SrcDam 128, more triggers, faster flight.
