@@ -314,7 +314,7 @@ QUICK GUIDE TO NEW CONTENT
 
 * Nexus helms are a special helmet type that can have Nexus Prisms socketed into them. These prisms can only be socketed in Nexus helms. These grant a variety of auras and stats. Auras of the same type can stack, and their levels are added.
 
-* Monsters in maps cannot be stunned, flinch or be knocked back and are extremely difficult to freeze and chill. They have multiple skills, are faster and more aggressive than non-map monsters, and each map can have up to a dozen different monsters types within them. Being swarmed is a great way to die very quickly.
+* Monsters in maps cannot flinch or be knocked back and are extremely difficult to freeze and chill. They have multiple skills, are faster and more aggressive than non-map monsters, and each map can have up to a dozen different monsters types within them. Being swarmed is a great way to die very quickly.
 
 * The 6 new uber bosses have three phases. Upon defeating a phase, a stronger version of the boss arises, and their skills become deadlier and new skills are granted to them. In addition, they will begin summoning minions periodically, and will not stop doing so until they are defeated. If you allow them to live too long, you may find yourself overwhelmed by them. Uber bosses also ignore your pets and will focus solely upon you.y bonus
 * Increased effect of cold skill synergy bonus
