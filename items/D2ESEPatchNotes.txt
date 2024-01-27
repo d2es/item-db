@@ -79,7 +79,7 @@ KNOWN ISSUES
 
 * Some magic and rare items that drop from these two SuperUniques can have incorrectly-named modifiers at much higher levels than intended, however these also come with the expected level requirement, so their impact is minimal currently.
 
-* Loading into the new areas can take some time, it is expected for the game to appear to hang while travelling to these areas. This is being worked on.
+* Loading into the new areas can take some time, it is expected for the game to appear to hang while travelling to these areas. This is being worked on. WHEN ENTERING A MAP, OPEN YOUR CUBE OR SPAM CLICK (5ish) A POTION ON YOUR BELT UNTIL YOU ARE ABLE TO CLICK THE WAYPOINT, OTHERWISE YOU WILL NOT BE ABLE TO INTERACT WITH ANYTHING ON THE MAP
 
 * The noob charm cannot have it's granted skill changed via the cube. This is a temporary measure to prevent a server crash and will be re-enabled at a later date.
 
