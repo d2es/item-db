@@ -339,8 +339,8 @@ NEW RUNEWORDS
 ---------------------------------------------------------------
 
 Utmost Greed			6os Torso			Dragon + God + Jewel + Jewel + Jewel + Jewel	900% Gold Find, 128% Gold Find per 8 levels
-Overwhelming Greed		4os Gloves			Dragon + God + Jewel + Jewel					900% Gold Find, 96% Gold Find per 8 levels
-Unyielding Greed		4os Boots			Dragon + God + Jewel + Jewel					900% Gold Find, 96% Gold Find per 8 levels
+Overwhelming Greed		2os Gloves			Dragon + God 									900% Gold Find, 96% Gold Find per 8 levels
+Unyielding Greed		2os Boots			Dragon + God									900% Gold Find, 96% Gold Find per 8 levels
 Endless Greed			2os Belt			Dragon + God									900% Gold Find, 64% Gold Find per 8 levels
 All-Consuming Greed		3os Missile Weapon	Dragon + God + Jewel							900% Gold Find, 80% Gold Find per 8 levels
 Pinnacle of Greed		3os Melee Weapon	Dragon + God + Jewel							900% Gold Find, 80% Gold Find per 8 levels
